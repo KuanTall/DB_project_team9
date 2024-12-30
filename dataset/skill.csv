@@ -1,0 +1,3416 @@
+pokemon_id,name
+1,Seed Bomb
+1,Sludge Bomb
+1,Power Whip
+2,Sludge Bomb
+2,Solar Beam
+2,Power Whip
+3,Sludge Bomb
+3,Petal Blizzard
+3,Solar Beam
+4,Flame Charge
+4,Flame Burst
+4,Flamethrower
+5,Fire Punch
+5,Flame Burst
+5,Flamethrower
+6,Fire Blast
+6,Dragon Claw
+6,Overheat
+7,Aqua Jet
+7,Aqua Tail
+7,Water Pulse
+8,Aqua Jet
+8,Ice Beam
+8,Hydro Pump
+9,Flash Cannon
+9,Ice Beam
+9,Hydro Pump
+9,Skull Bash
+10,Struggle
+11,Struggle
+12,Bug Buzz
+12,Psychic
+12,Signal Beam
+13,Struggle
+14,Struggle
+15,Sludge Bomb
+15,Aerial Ace
+15,X Scissor
+15,Fell Stinger
+16,Twister
+16,Air Cutter
+16,Aerial Ace
+17,Twister
+17,Air Cutter
+17,Aerial Ace
+18,Hurricane
+18,Feather Dance
+18,Brave Bird
+18,Aerial Ace
+19,Crunch
+19,Shadow Ball
+19,Hyper Fang
+20,Crunch
+20,Hyper Beam
+20,Hyper Fang
+21,Aerial Ace
+21,Sky Attack
+21,Drill Peck
+22,Aerial Ace
+22,Fly
+22,Sky Attack
+22,Drill Run
+23,Wrap
+23,Sludge Bomb
+23,Poison Fang
+24,Dark Pulse
+24,Acid Spray
+24,Gunk Shot
+24,Sludge Wave
+25,Discharge
+25,Wild Charge
+25,Thunderbolt
+26,Psychic
+26,Trailblaze
+26,Grass Knot
+26,Wild Charge
+26,Thunder Punch
+27,Blizzard
+27,Night Slash
+27,Gyro Ball
+28,Blizzard
+28,Aerial Ace
+28,Drill Run
+28,Ice Punch
+28,Bulldoze
+28,Gyro Ball
+29,Poison Fang
+29,Sludge Bomb
+29,Body Slam
+30,Poison Fang
+30,Thunderbolt
+30,Sludge Bomb
+30,Dig
+31,Earthquake
+31,Poison Fang
+31,Earth Power
+31,Stone Edge
+31,Sludge Wave
+32,Horn Attack
+32,Sludge Bomb
+32,Body Slam
+33,Horn Attack
+33,Ice Beam
+33,Sludge Bomb
+33,Dig
+34,Earthquake
+34,Sand Tomb
+34,Earth Power
+34,Megahorn
+34,Sludge Wave
+35,Disarming Voice
+35,Swift
+35,Moonblast
+35,Body Slam
+36,Dazzling Gleam
+36,Swift
+36,Meteor Mash
+36,Moonblast
+36,Psychic
+37,Dark Pulse
+37,Weather Ball Ice
+37,Blizzard
+37,Ice Beam
+38,Dazzling Gleam
+38,Weather Ball Ice
+38,Psyshock
+38,Blizzard
+38,Ice Beam
+39,Disarming Voice
+39,Swift
+39,Dazzling Gleam
+39,Gyro Ball
+40,Dazzling Gleam
+40,Swift
+40,Icy Wind
+40,Disarming Voice
+40,Ice Beam
+40,Play Rough
+40,Hyper Beam
+41,Poison Fang
+41,Swift
+41,Air Cutter
+42,Shadow Ball
+42,Poison Fang
+42,Air Cutter
+43,Seed Bomb
+43,Moonblast
+43,Sludge Bomb
+44,Petal Blizzard
+44,Moonblast
+44,Sludge Bomb
+45,Petal Blizzard
+45,Sludge Bomb
+45,Moonblast
+45,Solar Beam
+46,Cross Poison
+46,Seed Bomb
+46,X Scissor
+47,Cross Poison
+47,Solar Beam
+47,X Scissor
+48,Poison Fang
+48,Signal Beam
+48,Psybeam
+49,Silver Wind
+49,Poison Fang
+49,Bug Buzz
+49,Psychic
+50,Dig
+50,Rock Tomb
+50,Mud Bomb
+51,Earthquake
+51,Iron Head
+51,Mud Bomb
+52,Night Slash
+52,Trailblaze
+52,Foul Play
+52,Dark Pulse
+53,Foul Play
+53,Trailblaze
+53,Payback
+53,Play Rough
+53,Dark Pulse
+54,Psybeam
+54,Cross Chop
+54,Aqua Tail
+55,Psychic
+55,Liquidation
+55,Cross Chop
+55,Synchronoise
+55,Bubble Beam
+55,Ice Beam
+55,Hydro Pump
+56,Cross Chop
+56,Brick Break
+56,Low Sweep
+57,Close Combat
+57,Ice Punch
+57,Night Slash
+57,Low Sweep
+58,Rock Slide
+58,Flamethrower
+58,Crunch
+59,Rock Slide
+59,Flamethrower
+59,Crunch
+59,Wild Charge
+60,Bubble Beam
+60,Body Slam
+60,Mud Bomb
+61,Water Pulse
+61,Bubble Beam
+61,Mud Bomb
+62,Hydro Pump
+62,Icy Wind
+62,Scald
+62,Power Up Punch
+62,Ice Punch
+62,Dynamic Punch
+63,Psyshock
+63,Shadow Ball
+63,Signal Beam
+64,Psybeam
+64,Shadow Ball
+64,Dazzling Gleam
+65,Futuresight
+65,Fire Punch
+65,Shadow Ball
+65,Focus Blast
+66,Low Sweep
+66,Cross Chop
+66,Brick Break
+67,Submission
+67,Dynamic Punch
+67,Brick Break
+68,Heavy Slam
+68,Cross Chop
+68,Rock Slide
+68,Close Combat
+68,Dynamic Punch
+69,Power Whip
+69,Wrap
+69,Sludge Bomb
+70,Power Whip
+70,Seed Bomb
+70,Sludge Bomb
+71,Leaf Blade
+71,Acid Spray
+71,Leaf Tornado
+71,Solar Beam
+71,Sludge Bomb
+72,Bubble Beam
+72,Wrap
+72,Water Pulse
+73,Hydro Pump
+73,Scald
+73,Acid Spray
+73,Blizzard
+73,Sludge Wave
+74,Rock Slide
+74,Thunderbolt
+74,Rock Tomb
+75,Thunderbolt
+75,Rock Blast
+75,Stone Edge
+76,Stone Edge
+76,Wild Charge
+76,Rock Blast
+77,Play Rough
+77,Swift
+77,Psybeam
+78,Play Rough
+78,High Horsepower
+78,Megahorn
+78,Body Slam
+78,Psychic
+79,Water Pulse
+79,Psychic
+79,Psyshock
+80,Water Pulse
+80,Scald
+80,Ice Beam
+80,Psychic
+81,Discharge
+81,Thunderbolt
+81,Magnet Bomb
+82,Zap Cannon
+82,Discharge
+82,Flash Cannon
+82,Magnet Bomb
+83,Brick Break
+83,Leaf Blade
+83,Brave Bird
+84,Drill Peck
+84,Brave Bird
+84,Aerial Ace
+85,Drill Peck
+85,Brave Bird
+85,Aerial Ace
+86,Aurora Beam
+86,Aqua Tail
+86,Icy Wind
+87,Aurora Beam
+87,Liquidation
+87,Drill Run
+87,Blizzard
+87,Water Pulse
+88,Crunch
+88,Sludge Bomb
+88,Gunk Shot
+89,Dark Pulse
+89,Acid Spray
+89,Sludge Wave
+89,Gunk Shot
+90,Bubble Beam
+90,Razor Shell
+90,Icy Wind
+90,Water Pulse
+91,Aurora Beam
+91,Razor Shell
+91,Liquidation
+91,Icy Wind
+91,Avalanche
+91,Hydro Pump
+92,Night Shade
+92,Sludge Bomb
+92,Dark Pulse
+93,Shadow Punch
+93,Ice Punch
+93,Shadow Ball
+93,Sludge Bomb
+93,Dark Pulse
+94,Shadow Ball
+94,Sludge Bomb
+94,Focus Blast
+95,Sand Tomb
+95,Breaking Swipe
+95,Heavy Slam
+95,Stone Edge
+96,Psybeam
+96,Psychic
+96,Psyshock
+97,Futuresight
+97,Shadow Ball
+97,Thunder Punch
+97,Ice Punch
+97,Fire Punch
+97,Focus Blast
+97,Psychic
+98,Vice Grip
+98,Razor Shell
+98,Water Pulse
+98,Bubble Beam
+99,Vice Grip
+99,Razor Shell
+99,Crabhammer
+99,Water Pulse
+99,X Scissor
+100,Swift
+100,Energy Ball
+100,Thunderbolt
+101,Swift
+101,Energy Ball
+101,Wild Charge
+102,Seed Bomb
+102,Ancient Power
+102,Psychic
+103,Seed Bomb
+103,Solar Beam
+103,Dragon Pulse
+104,Bone Club
+104,Bulldoze
+104,Dig
+105,Bone Club
+105,Flame Wheel
+105,Fire Blast
+105,Shadow Ball
+106,Close Combat
+106,Blaze Kick
+106,Stone Edge
+106,Low Sweep
+107,Fire Punch
+107,Power Up Punch
+107,Close Combat
+107,Thunder Punch
+107,Ice Punch
+108,Hyper Beam
+108,Power Whip
+108,Stomp
+109,Sludge
+109,Dark Pulse
+109,Sludge Bomb
+110,Sludge
+110,Brutal Swing
+110,Overheat
+110,Hyper Beam
+110,Play Rough
+110,Hyper Beam
+111,Bulldoze
+111,Stomp
+111,Horn Attack
+112,Surf
+112,Breaking Swipe
+112,Stone Edge
+112,Earthquake
+113,Psychic
+113,Dazzling Gleam
+113,Hyper Beam
+114,Grass Knot
+114,Solar Beam
+114,Sludge Bomb
+115,Crunch
+115,Power Up Punch
+115,Outrage
+115,Earthquake
+116,Bubble Beam
+116,Flash Cannon
+116,Dragon Pulse
+117,Aurora Beam
+117,Hydro Pump
+117,Dragon Pulse
+118,Water Pulse
+118,Aqua Tail
+118,Horn Attack
+119,Ice Beam
+119,Megahorn
+119,Water Pulse
+120,Swift
+120,Power Gem
+120,Bubble Beam
+121,Hydro Pump
+121,Psybeam
+121,Ice Beam
+121,Thunder
+121,Psychic
+121,Power Gem
+122,Psybeam
+122,Triple Axel
+122,Ice Punch
+122,Psychic
+123,Night Slash
+123,Trailblaze
+123,Aerial Ace
+123,X Scissor
+124,Draining Kiss
+124,Focus Blast
+124,Psyshock
+124,Avalanche
+125,Thunder Punch
+125,Thunder
+125,Thunderbolt
+126,Fire Blast
+126,Scorching Sands
+126,Flamethrower
+126,Fire Punch
+127,Vice Grip
+127,Super Power
+127,Close Combat
+127,X Scissor
+128,Horn Attack
+128,Trailblaze
+128,Earthquake
+128,Iron Head
+129,Struggle
+130,Hydro Pump
+130,Twister
+130,Outrage
+130,Crunch
+131,Hydro Pump
+131,Skull Bash
+131,Blizzard
+131,Surf
+132,Struggle
+133,Dig
+133,Swift
+134,Water Pulse
+134,Liquidation
+134,Aqua Tail
+134,Hydro Pump
+135,Discharge
+135,Thunder
+135,Thunderbolt
+136,Fire Blast
+136,Overheat
+136,Flamethrower
+137,Solar Beam
+137,Zap Cannon
+137,Hyper Beam
+138,Ancient Power
+138,Rock Blast
+138,Bubble Beam
+139,Ancient Power
+139,Rock Blast
+139,Hydro Pump
+140,Ancient Power
+140,Rock Tomb
+140,Aqua Jet
+141,Ancient Power
+141,Stone Edge
+141,Water Pulse
+142,Ancient Power
+142,Earth Power
+142,Rock Slide
+142,Hyper Beam
+142,Iron Head
+143,Heavy Slam
+143,Super Power
+143,Body Slam
+143,Skull Bash
+143,Outrage
+143,Earthquake
+143,Hyper Beam
+144,Futuresight
+144,Brave Bird
+144,Ancient Power
+145,Close Combat
+145,Brave Bird
+145,Ancient Power
+146,Payback
+146,Brave Bird
+146,Ancient Power
+147,Wrap
+147,Aqua Tail
+147,Twister
+148,Wrap
+148,Body Slam
+148,Dragon Pulse
+148,Aqua Tail
+149,Hurricane
+149,Super Power
+149,Dragon Claw
+149,Outrage
+149,Hyper Beam
+150,Rock Slide
+150,Futuresight
+150,Earthquake
+150,Dynamic Punch
+151,Psychic
+151,Surf
+151,Dazzling Gleam
+151,Dark Pulse
+151,Wild Charge
+151,Flash Cannon
+151,Grass Knot
+151,Rock Slide
+151,Bulldoze
+151,Gyro Ball
+151,Stone Edge
+151,Energy Ball
+151,Focus Blast
+151,Overheat
+151,Low Sweep
+151,Flame Charge
+151,Thunder
+151,Thunderbolt
+151,Solar Beam
+151,Hyper Beam
+151,Blizzard
+151,Ice Beam
+151,Psyshock
+151,Dragon Claw
+151,Ancient Power
+152,Energy Ball
+152,Body Slam
+152,Grass Knot
+153,Energy Ball
+153,Ancient Power
+153,Grass Knot
+154,Petal Blizzard
+154,Earthquake
+154,Solar Beam
+155,Flame Charge
+155,Flamethrower
+155,Swift
+156,Flame Charge
+156,Flamethrower
+156,Dig
+157,Fire Punch
+157,Overheat
+157,Shadow Ball
+157,Wild Charge
+158,Crunch
+158,Water Pulse
+158,Aqua Jet
+159,Crunch
+159,Water Pulse
+159,Ice Punch
+160,Crunch
+160,Ice Beam
+160,Hydro Pump
+161,Dig
+161,Grass Knot
+161,Brick Break
+162,Dig
+162,Hyper Beam
+162,Brick Break
+163,Aerial Ace
+163,Night Shade
+163,Sky Attack
+164,Psychic
+164,Shadow Ball
+164,Night Shade
+164,Sky Attack
+165,Silver Wind
+165,Aerial Ace
+165,Swift
+166,Bug Buzz
+166,Dynamic Punch
+166,Aerial Ace
+166,Silver Wind
+167,Night Slash
+167,Cross Poison
+167,Signal Beam
+168,Shadow Sneak
+168,Trailblaze
+168,Lunge
+168,Cross Poison
+168,Megahorn
+169,Shadow Ball
+169,Cross Poison
+169,Poison Fang
+169,Sludge Bomb
+169,Air Cutter
+170,Water Pulse
+170,Bubble Beam
+170,Thunderbolt
+171,Hydro Pump
+171,Surf
+171,Thunder
+171,Thunderbolt
+172,Thunderbolt
+172,Thunder Punch
+172,Disarming Voice
+173,Grass Knot
+173,Swift
+173,Signal Beam
+173,Psyshock
+174,Wild Charge
+174,Swift
+174,Psychic
+174,Shadow Ball
+175,Ancient Power
+175,Dazzling Gleam
+175,Psyshock
+176,Ancient Power
+176,Aerial Ace
+176,Dazzling Gleam
+177,Night Shade
+177,Drill Peck
+177,Psyshock
+178,Ominous Wind
+178,Aerial Ace
+178,Futuresight
+179,Body Slam
+179,Trailblaze
+179,Discharge
+179,Thunderbolt
+180,Power Gem
+180,Trailblaze
+180,Discharge
+180,Thunderbolt
+181,Zap Cannon
+181,Trailblaze
+181,Brutal Swing
+181,Thunder Punch
+181,Power Gem
+181,Thunder
+181,Focus Blast
+182,Leaf Blade
+182,Dazzling Gleam
+182,Petal Blizzard
+183,Bubble Beam
+183,Body Slam
+183,Aqua Tail
+184,Play Rough
+184,Ice Beam
+184,Hydro Pump
+185,Stone Edge
+185,Trailblaze
+185,Meteor Beam
+185,Rock Tomb
+185,Rock Slide
+185,Earthquake
+186,Hydro Pump
+186,Scald
+186,Weather Ball Water
+186,Surf
+186,Blizzard
+187,Grass Knot
+187,Seed Bomb
+187,Dazzling Gleam
+188,Grass Knot
+188,Energy Ball
+188,Dazzling Gleam
+189,Energy Ball
+189,Aerial Ace
+189,Solar Beam
+189,Dazzling Gleam
+190,Low Sweep
+190,Aerial Ace
+190,Swift
+191,Energy Ball
+191,Seed Bomb
+191,Grass Knot
+192,Solar Beam
+192,Leaf Storm
+192,Sludge Bomb
+192,Petal Blizzard
+193,Ancient Power
+193,Silver Wind
+193,Aerial Ace
+194,Mud Bomb
+194,Body Slam
+194,Dig
+195,Sludge Bomb
+195,Mud Bomb
+195,Acid Spray
+195,Stone Edge
+195,Earthquake
+196,Psybeam
+196,Psychic Fangs
+196,Futuresight
+196,Psychic
+197,Dark Pulse
+197,Foul Play
+198,Drill Peck
+198,Dark Pulse
+198,Foul Play
+199,Blizzard
+199,Scald
+199,Fire Blast
+199,Psychic
+200,Shadow Sneak
+200,Ominous Wind
+200,Dark Pulse
+201,Struggle
+202,Mirror Coat
+203,Psychic
+203,Trailblaze
+203,Psychic Fangs
+203,Mirror Coat
+203,Thunderbolt
+204,Gyro Ball
+204,Sand Tomb
+204,Rock Tomb
+205,Heavy Slam
+205,Mirror Shot
+205,Sand Tomb
+205,Rock Tomb
+205,Earthquake
+206,Dig
+206,Drill Run
+206,Rock Slide
+207,Dig
+207,Night Slash
+207,Aerial Ace
+208,Earthquake
+208,Breaking Swipe
+208,Psychic Fangs
+208,Crunch
+208,Heavy Slam
+209,Crunch
+209,Brick Break
+209,Dazzling Gleam
+210,Crunch
+210,Close Combat
+210,Play Rough
+211,Aqua Tail
+211,Shadow Ball
+211,Dark Pulse
+211,Sludge Bomb
+211,Ice Beam
+212,X Scissor
+212,Trailblaze
+212,Night Slash
+212,Iron Head
+213,Rock Blast
+213,Gyro Ball
+213,Stone Edge
+214,Megahorn
+214,Rock Blast
+214,Earthquake
+214,Close Combat
+215,Aerial Ace
+215,X Scissor
+215,Close Combat
+216,Cross Chop
+216,Swift
+216,Trailblaze
+216,Play Rough
+216,Crunch
+217,Close Combat
+217,Swift
+217,Trailblaze
+217,Play Rough
+217,Hyper Beam
+218,Flame Burst
+218,Rock Slide
+218,Flame Charge
+219,Heat Wave
+219,Rock Tomb
+219,Stone Edge
+219,Overheat
+220,Icy Wind
+220,Rock Slide
+220,Body Slam
+221,Avalanche
+221,High Horsepower
+221,Stone Edge
+221,Bulldoze
+222,Rock Blast
+222,Bubble Beam
+222,Power Gem
+223,Aurora Beam
+223,Rock Blast
+223,Water Pulse
+224,Gunk Shot
+224,Octazooka
+224,Acid Spray
+224,Aurora Beam
+224,Water Pulse
+225,Ice Punch
+225,Triple Axel
+225,Fly
+225,Aerial Ace
+225,Icy Wind
+226,Water Pulse
+226,Bubble Beam
+226,Aerial Ace
+226,Ice Beam
+227,Brave Bird
+227,Flash Cannon
+227,Sky Attack
+228,Crunch
+228,Dark Pulse
+228,Flamethrower
+229,Crunch
+229,Flamethrower
+229,Foul Play
+229,Fire Blast
+230,Hydro Pump
+230,Octazooka
+230,Outrage
+230,Blizzard
+231,Bulldoze
+231,Trailblaze
+231,Body Slam
+231,Rock Slide
+232,Earthquake
+232,Trailblaze
+232,Body Slam
+232,Play Rough
+232,Heavy Slam
+233,Solar Beam
+233,Tri Attack
+233,Zap Cannon
+233,Hyper Beam
+234,Stomp
+234,Megahorn
+234,Wild Charge
+235,
+236,Brick Break
+236,Low Sweep
+236,Rock Slide
+237,Close Combat
+237,Triple Axel
+237,Stone Edge
+237,Gyro Ball
+238,Ice Beam
+238,Psyshock
+238,Ice Punch
+239,Thunder Punch
+239,Discharge
+239,Brick Break
+240,Brick Break
+240,Flame Burst
+240,Fire Punch
+241,Stomp
+241,Ice Beam
+241,Thunderbolt
+241,Gyro Ball
+241,Body Slam
+242,Psychic
+242,Dazzling Gleam
+242,Hyper Beam
+243,Thunder
+243,Shadow Ball
+243,Wild Charge
+243,Thunderbolt
+244,Flamethrower
+244,Scorching Sands
+244,Flame Charge
+244,Iron Head
+244,Overheat
+244,Fire Blast
+245,Hydro Pump
+245,Scald
+245,Ice Beam
+245,Water Pulse
+245,Bubble Beam
+246,Stomp
+246,Ancient Power
+246,Crunch
+247,Dig
+247,Ancient Power
+247,Crunch
+248,Fire Blast
+248,Brutal Swing
+248,Stone Edge
+248,Crunch
+249,Sky Attack
+249,Futuresight
+249,Hydro Pump
+250,Brave Bird
+250,Solar Beam
+250,Fire Blast
+251,Hyper Beam
+251,Leaf Storm
+251,Seed Bomb
+251,Dazzling Gleam
+251,Psychic
+252,Energy Ball
+252,Grass Knot
+252,Aerial Ace
+253,Leaf Blade
+253,Grass Knot
+253,Aerial Ace
+254,Leaf Blade
+254,Breaking Swipe
+254,Dragon Claw
+254,Earthquake
+254,Aerial Ace
+255,Flame Charge
+255,Rock Tomb
+255,Flamethrower
+256,Flame Charge
+256,Rock Slide
+256,Flamethrower
+257,Focus Blast
+257,Blaze Kick
+257,Brave Bird
+257,Overheat
+258,Dig
+258,Stomp
+258,Sludge
+259,Mud Bomb
+259,Surf
+259,Sludge
+260,Earthquake
+260,Muddy Water
+260,Surf
+260,Sludge Wave
+261,Crunch
+261,Poison Fang
+261,Dig
+262,Crunch
+262,Poison Fang
+262,Play Rough
+263,Dig
+263,Swift
+263,Body Slam
+264,Dig
+264,Gunk Shot
+264,Body Slam
+265,Struggle
+266,Struggle
+267,Silver Wind
+267,Bug Buzz
+267,Air Cutter
+268,Struggle
+269,Silver Wind
+269,Bug Buzz
+269,Sludge Bomb
+270,Bubble Beam
+270,Scald
+270,Energy Ball
+271,Bubble Beam
+271,Scald
+271,Grass Knot
+271,Ice Beam
+272,Hydro Pump
+272,Scald
+272,Leaf Storm
+272,Energy Ball
+272,Ice Beam
+272,Solar Beam
+272,Blizzard
+273,Energy Ball
+273,Foul Play
+273,Grass Knot
+274,Leaf Blade
+274,Foul Play
+274,Grass Knot
+275,Leaf Blade
+275,Leaf Tornado
+275,Foul Play
+275,Hurricane
+276,Aerial Ace
+277,Aerial Ace
+277,Sky Attack
+277,Brave Bird
+278,Water Pulse
+278,Ice Beam
+278,Air Cutter
+279,Hydro Pump
+279,Weather Ball Water
+279,Blizzard
+279,Hurricane
+280,Psyshock
+280,Shadow Sneak
+280,Disarming Voice
+281,Psychic
+281,Draining Kiss
+281,Triple Axel
+281,Shadow Sneak
+281,Disarming Voice
+282,Psychic
+282,Triple Axel
+282,Shadow Ball
+282,Dazzling Gleam
+283,Aqua Jet
+283,Signal Beam
+283,Bubble Beam
+284,Air Cutter
+284,Lunge
+284,Bubble Beam
+284,Silver Wind
+284,Ominous Wind
+285,Seed Bomb
+285,Energy Ball
+285,Grass Knot
+286,Dynamic Punch
+286,Sludge Bomb
+286,Seed Bomb
+287,Body Slam
+287,Brick Break
+287,Night Slash
+288,Body Slam
+288,Rock Slide
+288,Brick Break
+288,Bulldoze
+289,Hyper Beam
+289,Earthquake
+289,Play Rough
+290,Night Slash
+290,Aerial Ace
+290,Bug Buzz
+291,Shadow Ball
+291,Aerial Ace
+291,Bug Buzz
+292,Shadow Sneak
+292,Dig
+292,Aerial Ace
+293,Stomp
+293,Flamethrower
+293,Disarming Voice
+294,Stomp
+294,Flamethrower
+294,Disarming Voice
+295,Crunch
+295,Boomburst
+295,Fire Blast
+295,Disarming Voice
+296,Heavy Slam
+296,Cross Chop
+296,Low Sweep
+297,Heavy Slam
+297,Super Power
+297,Dynamic Punch
+297,Close Combat
+298,Bubble Beam
+298,Body Slam
+298,Ice Beam
+299,Rock Blast
+299,Thunderbolt
+299,Rock Slide
+300,Dig
+300,Wild Charge
+300,Disarming Voice
+301,Play Rough
+301,Wild Charge
+301,Disarming Voice
+302,Power Gem
+302,Shadow Sneak
+302,Foul Play
+303,Play Rough
+303,Power Up Punch
+303,Iron Head
+303,Vice Grip
+304,Iron Head
+304,Body Slam
+304,Rock Tomb
+305,Body Slam
+305,Rock Tomb
+305,Heavy Slam
+305,Rock Slide
+306,Thunder
+306,Meteor Beam
+306,Rock Tomb
+306,Heavy Slam
+306,Stone Edge
+307,Ice Punch
+307,Low Sweep
+307,Psyshock
+308,Ice Punch
+308,Power Up Punch
+308,Dynamic Punch
+308,Psychic
+309,Thunderbolt
+309,Swift
+309,Discharge
+310,Thunder
+310,Psychic Fangs
+310,Overheat
+310,Flame Burst
+310,Wild Charge
+311,Thunderbolt
+311,Grass Knot
+311,Swift
+311,Discharge
+312,Thunderbolt
+312,Grass Knot
+312,Swift
+312,Discharge
+313,Signal Beam
+313,Thunderbolt
+313,Bug Buzz
+314,Silver Wind
+314,Dazzling Gleam
+314,Bug Buzz
+315,Petal Blizzard
+315,Dazzling Gleam
+315,Sludge Bomb
+316,Sludge
+316,Ice Beam
+316,Gunk Shot
+317,Gunk Shot
+317,Acid Spray
+317,Ice Beam
+317,Sludge Bomb
+318,Aqua Jet
+318,Poison Fang
+318,Crunch
+319,Hydro Pump
+319,Poison Fang
+319,Crunch
+320,Heavy Slam
+320,Scald
+320,Body Slam
+320,Water Pulse
+321,Surf
+321,Scald
+321,Hyper Beam
+321,Blizzard
+322,Bulldoze
+322,Stomp
+322,Heat Wave
+323,Earthquake
+323,Earth Power
+323,Solar Beam
+323,Overheat
+324,Overheat
+324,Earthquake
+324,Solar Beam
+325,Psybeam
+325,Mirror Coat
+325,Shadow Ball
+326,Psychic
+326,Mirror Coat
+326,Shadow Ball
+327,Dig
+327,Icy Wind
+327,Rock Tomb
+328,Sand Tomb
+328,Scorching Sands
+328,Crunch
+328,Dig
+329,Sand Tomb
+329,Scorching Sands
+329,Bug Buzz
+329,Bulldoze
+330,Earthquake
+330,Scorching Sands
+330,Boomburst
+330,Stone Edge
+330,Dragon Claw
+331,Grass Knot
+331,Trailblaze
+331,Payback
+331,Seed Bomb
+331,Brick Break
+332,Dark Pulse
+332,Trailblaze
+332,Payback
+332,Grass Knot
+332,Dynamic Punch
+333,Disarming Voice
+333,Ice Beam
+333,Aerial Ace
+334,Sky Attack
+334,Dragon Pulse
+334,Dazzling Gleam
+335,Close Combat
+335,Dig
+335,Night Slash
+336,Poison Fang
+336,Wrap
+336,Crunch
+337,Psychic
+337,Moonblast
+337,Rock Slide
+338,Psychic
+338,Solar Beam
+338,Rock Slide
+339,Aqua Tail
+339,Scald
+339,Mud Bomb
+339,Ice Beam
+340,Water Pulse
+340,Scald
+340,Mud Bomb
+340,Blizzard
+341,Vice Grip
+341,Scald
+341,Razor Shell
+341,Aqua Jet
+341,Bubble Beam
+342,Vice Grip
+342,Scald
+342,Razor Shell
+342,Crabhammer
+342,Night Slash
+342,Bubble Beam
+343,Gyro Ball
+343,Dig
+343,Psybeam
+344,Gyro Ball
+344,Scorching Sands
+344,Rock Tomb
+344,Shadow Ball
+344,Ice Beam
+344,Earth Power
+344,Earthquake
+344,Psychic
+345,Grass Knot
+345,Ancient Power
+345,Mirror Coat
+346,Grass Knot
+346,Rock Slide
+346,Stone Edge
+346,Bulldoze
+347,Cross Poison
+347,Ancient Power
+347,Aqua Jet
+348,Cross Poison
+348,Liquidation
+348,Rock Blast
+348,Water Pulse
+349,Mirror Coat
+350,Surf
+350,Hyper Beam
+350,Blizzard
+351,Hurricane
+351,Weather Ball Normal
+351,Weather Ball Rock
+351,Energy Ball
+352,Foul Play
+352,Shadow Sneak
+352,Aerial Ace
+352,Ice Beam
+352,Thunder
+352,Flamethrower
+353,Ominous Wind
+353,Shadow Sneak
+353,Night Shade
+354,Shadow Ball
+354,Thunder
+354,Dazzling Gleam
+355,Ominous Wind
+355,Shadow Sneak
+355,Night Shade
+356,Shadow Punch
+356,Poltergeist
+356,Fire Punch
+356,Ice Punch
+357,Stomp
+357,Leaf Blade
+357,Aerial Ace
+358,Energy Ball
+358,Psyshock
+358,Psyshock
+358,Shadow Ball
+359,Dark Pulse
+359,Payback
+359,Megahorn
+359,Thunder
+360,Mirror Coat
+361,Avalanche
+361,Shadow Ball
+361,Icy Wind
+362,Avalanche
+362,Shadow Ball
+362,Gyro Ball
+363,Aurora Beam
+363,Water Pulse
+363,Body Slam
+364,Aurora Beam
+364,Water Pulse
+364,Body Slam
+365,Blizzard
+365,Water Pulse
+365,Earthquake
+366,Body Slam
+366,Water Pulse
+366,Ice Beam
+367,Crunch
+367,Aqua Tail
+367,Ice Beam
+368,Draining Kiss
+368,Water Pulse
+368,Psychic
+369,Ancient Power
+369,Hydro Pump
+369,Aqua Tail
+370,Draining Kiss
+370,Aqua Jet
+370,Water Pulse
+371,Flamethrower
+371,Crunch
+371,Twister
+372,Flamethrower
+372,Twister
+372,Dragon Pulse
+373,Fire Blast
+373,Fly
+373,Draco Meteor
+373,Hydro Pump
+374,Struggle
+375,Psychic
+375,Psyshock
+375,Gyro Ball
+376,Psychic
+376,Earthquake
+376,Flash Cannon
+377,Stone Edge
+377,Focus Blast
+377,Zap Cannon
+378,Blizzard
+378,Focus Blast
+378,Earthquake
+379,Flash Cannon
+379,Focus Blast
+379,Hyper Beam
+380,Psychic
+380,Thunder
+380,Outrage
+381,Psychic
+381,Solar Beam
+381,Dragon Claw
+382,Hydro Pump
+382,Surf
+382,Thunder
+382,Blizzard
+383,Earthquake
+383,Solar Beam
+383,Fire Blast
+384,Outrage
+384,Ancient Power
+384,Aerial Ace
+385,Dazzling Gleam
+385,Doom Desire
+385,Psychic
+386,Psycho Boost
+386,Dark Pulse
+386,Zap Cannon
+387,Energy Ball
+387,Body Slam
+387,Seed Bomb
+388,Energy Ball
+388,Body Slam
+388,Solar Beam
+389,Stone Edge
+389,Sand Tomb
+389,Earthquake
+389,Solar Beam
+390,Flame Wheel
+390,Flame Charge
+390,Flamethrower
+391,Flame Wheel
+391,Low Sweep
+391,Flamethrower
+392,Solar Beam
+392,Close Combat
+392,Flamethrower
+393,Bubble Beam
+393,Icy Wind
+393,Drill Peck
+394,Bubble Beam
+394,Icy Wind
+394,Hydro Pump
+395,Hydro Pump
+395,Drill Peck
+395,Flash Cannon
+395,Blizzard
+396,Aerial Ace
+396,Fly
+396,Brave Bird
+397,Aerial Ace
+397,Fly
+397,Heat Wave
+397,Brave Bird
+398,Brave Bird
+398,Fly
+398,Close Combat
+398,Heat Wave
+399,Hyper Fang
+399,Grass Knot
+399,Crunch
+400,Hyper Fang
+400,Surf
+400,Hyper Beam
+401,Struggle
+402,Bug Buzz
+402,Aerial Ace
+402,X Scissor
+403,Discharge
+403,Swift
+403,Thunderbolt
+404,Thunderbolt
+404,Crunch
+404,Wild Charge
+405,Hyper Beam
+405,Crunch
+405,Wild Charge
+406,Energy Ball
+406,Grass Knot
+407,Solar Beam
+407,Leaf Storm
+407,Grass Knot
+407,Dazzling Gleam
+407,Sludge Bomb
+408,Rock Tomb
+408,Bulldoze
+408,Ancient Power
+409,Rock Slide
+409,Flamethrower
+409,Outrage
+410,Rock Tomb
+410,Heavy Slam
+410,Ancient Power
+411,Stone Edge
+411,Flash Cannon
+411,Flamethrower
+412,Struggle
+413,Psybeam
+413,Bug Buzz
+413,Energy Ball
+414,Psybeam
+414,Bug Buzz
+414,Aerial Ace
+415,Bug Buzz
+416,Bug Buzz
+416,Signal Beam
+416,Fell Stinger
+416,X Scissor
+416,Power Gem
+417,Thunder
+417,Thunder Punch
+417,Thunderbolt
+418,Aqua Jet
+418,Swift
+418,Water Pulse
+419,Aqua Jet
+419,Liquidation
+419,Swift
+419,Hydro Pump
+420,Dazzling Gleam
+420,Seed Bomb
+420,Petal Blizzard
+421,Dazzling Gleam
+421,Solar Beam
+421,Hyper Beam
+422,Water Pulse
+422,Body Slam
+422,Mud Bomb
+423,Water Pulse
+423,Earthquake
+423,Body Slam
+423,Earth Power
+424,Low Sweep
+424,Aerial Ace
+424,Hyper Beam
+425,Ominous Wind
+425,Shadow Ball
+425,Icy Wind
+426,Ominous Wind
+426,Mystical Fire
+426,Shadow Ball
+426,Icy Wind
+427,Fire Punch
+427,Swift
+428,Fire Punch
+428,Triple Axel
+428,Focus Blast
+428,Hyper Beam
+429,Shadow Ball
+429,Dazzling Gleam
+429,Dark Pulse
+430,Brave Bird
+430,Sky Attack
+430,Dark Pulse
+430,Psychic
+431,Play Rough
+431,Aerial Ace
+431,Thunderbolt
+432,Play Rough
+432,Aerial Ace
+432,Thunder
+433,Wrap
+433,Psyshock
+433,Shadow Ball
+434,Crunch
+434,Trailblaze
+434,Sludge Bomb
+434,Flamethrower
+435,Crunch
+435,Trailblaze
+435,Sludge Bomb
+435,Flamethrower
+436,Gyro Ball
+436,Payback
+436,Heavy Slam
+436,Psyshock
+437,Flash Cannon
+437,Payback
+437,Psyshock
+437,Bulldoze
+437,Heavy Slam
+437,Psychic
+438,Rock Tomb
+438,Rock Slide
+438,Earthquake
+439,Psybeam
+439,Psyshock
+439,Psychic
+440,Psychic
+441,Night Shade
+441,Heat Wave
+441,Sky Attack
+442,Shadow Sneak
+442,Shadow Ball
+442,Ominous Wind
+443,Dig
+443,Body Slam
+443,Twister
+444,Dig
+444,Flamethrower
+444,Twister
+445,Outrage
+445,Sand Tomb
+445,Fire Blast
+445,Earthquake
+446,Gunk Shot
+446,Bulldoze
+446,Body Slam
+447,Brick Break
+447,Thunder Punch
+447,Blaze Kick
+447,Cross Chop
+447,Low Sweep
+448,Flash Cannon
+448,Thunder Punch
+448,Blaze Kick
+448,Aura Sphere
+448,Power Up Punch
+448,Close Combat
+448,Shadow Ball
+449,Dig
+449,Body Slam
+449,Rock Tomb
+450,Earthquake
+450,Scorching Sands
+450,Weather Ball Rock
+450,Earth Power
+450,Body Slam
+450,Stone Edge
+451,Cross Poison
+451,Sludge Bomb
+451,Aqua Tail
+452,Crunch
+452,Fell Stinger
+452,Sludge Bomb
+452,Aqua Tail
+453,Brick Break
+453,Sludge Bomb
+453,Low Sweep
+454,Dynamic Punch
+454,Shadow Ball
+454,Sludge Bomb
+454,Mud Bomb
+455,Power Whip
+455,Crunch
+455,Energy Ball
+456,Water Pulse
+456,Silver Wind
+456,Ice Beam
+457,Water Pulse
+457,Silver Wind
+457,Blizzard
+458,Water Pulse
+458,Aerial Ace
+458,Ice Beam
+459,Ice Beam
+459,Stomp
+459,Energy Ball
+460,Blizzard
+460,Icy Wind
+460,Weather Ball Ice
+460,Outrage
+460,Energy Ball
+461,Avalanche
+461,Triple Axel
+461,Foul Play
+461,Focus Blast
+462,Zap Cannon
+462,Mirror Shot
+462,Flash Cannon
+462,Wild Charge
+463,Hyper Beam
+463,Shadow Ball
+463,Solar Beam
+463,Earthquake
+464,Surf
+464,Breaking Swipe
+464,Super Power
+464,Skull Bash
+464,Stone Edge
+464,Earthquake
+465,Ancient Power
+465,Rock Slide
+465,Power Whip
+465,Solar Beam
+465,Sludge Bomb
+466,Thunder Punch
+466,Ice Punch
+466,Thunder
+466,Wild Charge
+467,Brick Break
+467,Scorching Sands
+467,Psychic
+467,Fire Blast
+467,Fire Punch
+468,Ancient Power
+468,Flamethrower
+468,Aerial Ace
+468,Dazzling Gleam
+469,Ancient Power
+469,Bug Buzz
+469,Aerial Ace
+470,Solar Beam
+470,Energy Ball
+470,Leaf Blade
+471,Avalanche
+471,Ice Beam
+471,Icy Wind
+472,Earthquake
+472,Sand Tomb
+472,Night Slash
+472,Aerial Ace
+473,Avalanche
+473,High Horsepower
+473,Stone Edge
+473,Bulldoze
+474,Solar Beam
+474,Blizzard
+474,Zap Cannon
+474,Hyper Beam
+475,Close Combat
+475,Leaf Blade
+475,Psychic
+476,Magnet Bomb
+476,Zap Cannon
+476,Thunderbolt
+476,Rock Slide
+477,Ominous Wind
+477,Poltergeist
+477,Dark Pulse
+477,Psychic
+478,Avalanche
+478,Triple Axel
+478,Shadow Ball
+478,Crunch
+479,Ominous Wind
+479,Thunder
+479,Thunderbolt
+480,Futuresight
+480,Thunder
+480,Swift
+481,Futuresight
+481,Blizzard
+481,Swift
+482,Futuresight
+482,Fire Blast
+482,Swift
+483,Draco Meteor
+483,Thunder
+483,Iron Head
+484,Draco Meteor
+484,Aqua Tail
+484,Hydro Pump
+484,Fire Blast
+485,Fire Blast
+485,Earth Power
+485,Flamethrower
+485,Stone Edge
+485,Iron Head
+486,Giga Impact
+486,Thunder
+486,Focus Blast
+487,Dragon Claw
+487,Shadow Sneak
+487,Ancient Power
+488,Aurora Beam
+488,Futuresight
+488,Moonblast
+489,Bubble Beam
+489,Surf
+489,Water Pulse
+490,Bubble Beam
+490,Surf
+490,Psychic
+491,Focus Blast
+491,Dark Pulse
+491,Shadow Ball
+492,Energy Ball
+492,Seed Flare
+492,Solar Beam
+492,Grass Knot
+493,Futuresight
+493,Outrage
+493,Hyper Beam
+494,Overheat
+494,V Create
+494,Psychic
+494,Focus Blast
+495,Energy Ball
+495,Wrap
+495,Seed Bomb
+496,Grass Knot
+496,Wrap
+496,Leaf Tornado
+497,Grass Knot
+497,Aerial Ace
+497,Leaf Tornado
+498,Flame Charge
+498,Body Slam
+498,Flamethrower
+499,Flame Charge
+499,Rock Tomb
+499,Flamethrower
+500,Heat Wave
+500,Flame Charge
+500,Focus Blast
+500,Rock Slide
+501,Aqua Tail
+501,Night Slash
+501,Water Pulse
+502,Aqua Tail
+502,X Scissor
+502,Water Pulse
+503,Razor Shell
+503,Dark Pulse
+503,X Scissor
+503,Icy Wind
+504,Dig
+504,Grass Knot
+504,Hyper Fang
+505,Crunch
+505,Grass Knot
+505,Hyper Fang
+506,Thunderbolt
+506,Dig
+506,Rock Tomb
+507,Thunderbolt
+507,Dig
+507,Play Rough
+508,Wild Charge
+508,Crunch
+508,Play Rough
+509,Night Slash
+509,Dark Pulse
+509,Play Rough
+510,Gunk Shot
+510,Payback
+510,Dark Pulse
+510,Play Rough
+511,Energy Ball
+511,Crunch
+511,Seed Bomb
+512,Solar Beam
+512,Crunch
+512,Grass Knot
+513,Flame Burst
+513,Crunch
+513,Flame Charge
+514,Flamethrower
+514,Crunch
+514,Fire Blast
+515,Surf
+515,Crunch
+515,Water Pulse
+516,Surf
+516,Crunch
+516,Hydro Pump
+517,Psybeam
+517,Psyshock
+517,Dazzling Gleam
+518,Futuresight
+518,Psyshock
+518,Dazzling Gleam
+519,Heat Wave
+519,Air Cutter
+519,Aerial Ace
+520,Heat Wave
+520,Sky Attack
+520,Aerial Ace
+521,Heat Wave
+521,Sky Attack
+521,Hyper Beam
+522,Flame Charge
+522,Thunderbolt
+522,Discharge
+523,Flame Charge
+523,Wild Charge
+523,Discharge
+524,Bulldoze
+524,Stone Edge
+524,Rock Blast
+525,Rock Slide
+525,Stone Edge
+525,Bulldoze
+526,Rock Slide
+526,Heavy Slam
+526,Super Power
+526,Solar Beam
+527,Air Cutter
+527,Psyshock
+527,Aerial Ace
+528,Psychic
+528,Fly
+528,Psychic Fangs
+528,Futuresight
+528,Aerial Ace
+529,Rock Tomb
+529,Drill Run
+529,Dig
+530,Rock Slide
+530,Scorching Sands
+530,Iron Head
+530,Drill Run
+530,Earthquake
+531,Disarming Voice
+531,Hyper Beam
+531,Dazzling Gleam
+532,Low Sweep
+532,Rock Tomb
+532,Brick Break
+533,Low Sweep
+533,Stone Edge
+533,Brick Break
+534,Dynamic Punch
+534,Stone Edge
+534,Focus Blast
+535,Water Pulse
+535,Sludge Wave
+535,Mud Bomb
+536,Water Pulse
+536,Sludge Wave
+536,Earth Power
+537,Muddy Water
+537,Sludge Bomb
+537,Earth Power
+538,Focus Blast
+538,Brick Break
+538,Body Slam
+538,Low Sweep
+539,Focus Blast
+539,Brick Break
+539,Body Slam
+539,Low Sweep
+540,Energy Ball
+540,Silver Wind
+540,Seed Bomb
+541,Energy Ball
+541,Silver Wind
+541,Bug Buzz
+542,Leaf Blade
+542,Leaf Storm
+542,Silver Wind
+542,X Scissor
+543,Signal Beam
+543,Gyro Ball
+543,Sludge Bomb
+544,Signal Beam
+544,Gyro Ball
+544,Sludge Bomb
+545,Megahorn
+545,X Scissor
+545,Gyro Ball
+545,Sludge Bomb
+546,Energy Ball
+546,Grass Knot
+546,Seed Bomb
+547,Grass Knot
+547,Seed Bomb
+547,Moonblast
+547,Hurricane
+548,Energy Ball
+548,Seed Bomb
+549,Petal Blizzard
+549,Solar Beam
+549,Hyper Beam
+550,Aqua Jet
+550,Muddy Water
+550,Aqua Tail
+551,Dig
+551,Bulldoze
+551,Crunch
+552,Earthquake
+552,Bulldoze
+552,Crunch
+553,Earthquake
+553,Brick Break
+553,Outrage
+553,Crunch
+554,Ice Punch
+554,Ice Beam
+555,Overheat
+555,Ice Punch
+555,Super Power
+555,Avalanche
+556,Aerial Ace
+556,Solar Beam
+556,Petal Blizzard
+557,Rock Blast
+557,Rock Tomb
+557,X Scissor
+558,Rock Blast
+558,Rock Slide
+558,X Scissor
+559,Acid Spray
+559,Thunder Punch
+559,Foul Play
+559,Brick Break
+560,Acid Spray
+560,Thunder Punch
+560,Foul Play
+560,Power Up Punch
+561,Air Cutter
+561,Signal Beam
+561,Ancient Power
+561,Psybeam
+562,Night Shade
+562,Rock Tomb
+563,Shadow Ball
+563,Psychic
+563,Dark Pulse
+564,Surf
+564,Body Slam
+564,Ancient Power
+565,Surf
+565,Liquidation
+565,Body Slam
+565,Ancient Power
+566,Dragon Claw
+566,Crunch
+566,Ancient Power
+567,Dragon Claw
+567,Crunch
+567,Ancient Power
+568,Gunk Shot
+568,Gunk Shot
+568,Seed Bomb
+569,Acid Spray
+569,Body Slam
+569,Gunk Shot
+569,Seed Bomb
+570,Foul Play
+570,Dark Pulse
+570,Aerial Ace
+571,Foul Play
+571,Flamethrower
+571,Sludge Bomb
+572,Swift
+572,Aqua Tail
+572,Thunderbolt
+573,Hyper Beam
+573,Aqua Tail
+573,Thunderbolt
+574,Psybeam
+574,Psychic
+574,Psyshock
+575,Psybeam
+575,Psychic
+575,Futuresight
+576,Rock Slide
+576,Psychic
+576,Futuresight
+577,Psyshock
+577,Thunder
+577,Night Shade
+578,Psyshock
+578,Thunder
+578,Night Shade
+579,Futuresight
+579,Thunder
+579,Shadow Ball
+580,Aerial Ace
+580,Brave Bird
+580,Bubble Beam
+581,Ice Beam
+581,Fly
+581,Hurricane
+581,Bubble Beam
+582,Icy Wind
+582,Signal Beam
+582,Ice Beam
+583,Icy Wind
+583,Signal Beam
+583,Ice Beam
+584,Blizzard
+584,Signal Beam
+584,Flash Cannon
+585,Energy Ball
+585,Trailblaze
+585,Wild Charge
+585,Seed Bomb
+586,Megahorn
+586,Trailblaze
+586,Hyper Beam
+586,Wild Charge
+586,Solar Beam
+587,Discharge
+587,Acrobatics
+587,Thunderbolt
+587,Aerial Ace
+588,Signal Beam
+588,Aerial Ace
+588,Drill Run
+588,X Scissor
+589,Megahorn
+589,Aerial Ace
+589,Drill Run
+589,Acid Spray
+590,Energy Ball
+590,Grass Knot
+590,Body Slam
+591,Foul Play
+591,Grass Knot
+591,Sludge Bomb
+592,Night Shade
+592,Ominous Wind
+592,Ice Beam
+593,Shadow Ball
+593,Surf
+593,Bubble Beam
+593,Ice Beam
+594,Hydro Pump
+594,Psychic
+594,Blizzard
+595,Cross Poison
+595,Discharge
+595,Bug Buzz
+596,Cross Poison
+596,Lunge
+596,Energy Ball
+596,Discharge
+596,Bug Buzz
+597,Gyro Ball
+597,Iron Head
+597,Flash Cannon
+598,Power Whip
+598,Mirror Shot
+598,Thunder
+598,Acid Spray
+598,Flash Cannon
+599,Vice Grip
+599,Zap Cannon
+599,Discharge
+600,Vice Grip
+600,Zap Cannon
+600,Thunderbolt
+601,Hyper Beam
+601,Mirror Shot
+601,Zap Cannon
+601,Flash Cannon
+602,Struggle
+603,Crunch
+603,Discharge
+603,Thunderbolt
+604,Crunch
+604,Liquidation
+604,Dragon Claw
+604,Acid Spray
+604,Thunderbolt
+605,Psybeam
+605,Psychic
+605,Dark Pulse
+606,Rock Slide
+606,Psychic
+606,Dark Pulse
+607,Flame Charge
+607,Mystical Fire
+607,Heat Wave
+607,Flame Burst
+608,Energy Ball
+608,Heat Wave
+608,Flame Burst
+609,Energy Ball
+609,Flame Charge
+609,Overheat
+609,Shadow Ball
+610,Dragon Claw
+610,Dragon Pulse
+610,Aqua Tail
+611,Dragon Claw
+611,Night Slash
+611,Aqua Tail
+612,Dragon Claw
+612,Earthquake
+612,Night Slash
+612,Surf
+613,Ice Punch
+613,Play Rough
+613,Icy Wind
+614,Ice Punch
+614,Liquidation
+614,Play Rough
+614,Surf
+615,Aurora Beam
+615,Triple Axel
+615,Water Pulse
+615,Solar Beam
+615,Night Slash
+616,Bug Buzz
+616,Signal Beam
+616,Body Slam
+617,Bug Buzz
+617,Focus Blast
+617,Signal Beam
+617,Acid Spray
+618,Earthquake
+618,Rock Slide
+618,Muddy Water
+618,Flash Cannon
+619,Brick Break
+619,Focus Blast
+619,Low Sweep
+620,Brick Break
+620,Blaze Kick
+620,Stone Edge
+620,Grass Knot
+621,Dragon Claw
+621,Hyper Beam
+621,Night Slash
+622,Shadow Punch
+622,Night Shade
+622,Brick Break
+623,Shadow Punch
+623,Poltergeist
+623,Earth Power
+623,Dynamic Punch
+624,Night Slash
+624,X Scissor
+624,Iron Head
+625,Dark Pulse
+625,Focus Blast
+625,X Scissor
+625,Iron Head
+626,Megahorn
+626,Earthquake
+626,Skull Bash
+626,Stomp
+627,Aerial Ace
+627,Fly
+627,Rock Tomb
+627,Brave Bird
+628,Dazzling Gleam
+628,Fly
+628,Ominous Wind
+628,Psychic
+628,Brave Bird
+629,Dark Pulse
+629,Foul Play
+629,Brave Bird
+630,Dark Pulse
+630,Shadow Ball
+630,Foul Play
+630,Aerial Ace
+631,Flamethrower
+631,Power Up Punch
+631,Thunder Punch
+632,X Scissor
+632,Stone Edge
+632,Iron Head
+633,Dragon Pulse
+633,Body Slam
+633,Crunch
+634,Dragon Pulse
+634,Body Slam
+634,Dark Pulse
+635,Dragon Pulse
+635,Flash Cannon
+635,Dark Pulse
+636,Flame Charge
+636,Flame Wheel
+636,Bug Buzz
+637,Overheat
+637,Hurricane
+637,Solar Beam
+637,Bug Buzz
+638,Close Combat
+638,Stone Edge
+638,Iron Head
+639,Close Combat
+639,Rock Slide
+639,Earthquake
+640,Close Combat
+640,Stone Edge
+640,Leaf Blade
+641,Grass Knot
+641,Hurricane
+641,Hyper Beam
+641,Dark Pulse
+642,Crunch
+642,Thunder Punch
+642,Brick Break
+642,Thunder
+643,Crunch
+643,Stone Edge
+643,Draco Meteor
+643,Overheat
+644,Outrage
+644,Crunch
+644,Flash Cannon
+644,Wild Charge
+645,Earth Power
+645,Focus Blast
+645,Rock Slide
+645,Outrage
+646,Iron Head
+646,Outrage
+646,Stone Edge
+646,Blizzard
+647,Aqua Jet
+647,Sacred Sword
+647,X Scissor
+647,Hydro Pump
+647,Close Combat
+648,Psyshock
+648,Hyper Beam
+648,Dazzling Gleam
+648,Thunderbolt
+649,X Scissor
+649,Flamethrower
+649,Magnet Bomb
+650,Gyro Ball
+650,Body Slam
+650,Seed Bomb
+651,Gyro Ball
+651,Body Slam
+651,Energy Ball
+652,Gyro Ball
+652,Thunder Punch
+652,Solar Beam
+652,Super Power
+652,Energy Ball
+653,Psyshock
+653,Flame Charge
+653,Flamethrower
+654,Psyshock
+654,Flame Charge
+654,Flamethrower
+655,Psychic
+655,Mystical Fire
+655,Fire Blast
+655,Flame Charge
+655,Flamethrower
+656,Water Pulse
+656,Surf
+656,Aerial Ace
+657,Water Pulse
+657,Surf
+657,Aerial Ace
+658,Night Slash
+658,Hydro Pump
+658,Surf
+658,Aerial Ace
+659,Dig
+659,Earthquake
+659,Bulldoze
+660,Dig
+660,Scorching Sands
+660,Fire Punch
+660,Earthquake
+660,Hyper Beam
+661,Aerial Ace
+661,Fly
+661,Swift
+661,Heat Wave
+662,Aerial Ace
+662,Fly
+662,Flame Charge
+662,Heat Wave
+663,Brave Bird
+663,Fly
+663,Hurricane
+663,Flame Charge
+663,Fire Blast
+664,Struggle
+665,Struggle
+666,Bug Buzz
+666,Hurricane
+666,Energy Ball
+666,Aerial Ace
+667,Flame Charge
+667,Crunch
+667,Flamethrower
+668,Flame Charge
+668,Overheat
+668,Dark Pulse
+668,Solar Beam
+669,Dazzling Gleam
+669,Psychic
+669,Petal Blizzard
+670,Dazzling Gleam
+670,Psychic
+670,Petal Blizzard
+671,Moonblast
+671,Disarming Voice
+671,Psychic
+671,Petal Blizzard
+672,Brick Break
+672,Seed Bomb
+673,Brick Break
+673,Seed Bomb
+673,Leaf Blade
+674,Low Sweep
+674,Body Slam
+674,Crunch
+675,Close Combat
+675,Rock Slide
+675,Iron Head
+675,Night Slash
+676,Surf
+676,Grass Knot
+676,Dark Pulse
+677,Psyshock
+677,Psychic
+677,Energy Ball
+678,Psychic
+678,Shadow Ball
+678,Energy Ball
+679,Iron Head
+679,Gyro Ball
+680,Iron Head
+680,Gyro Ball
+681,Flash Cannon
+681,Shadow Ball
+681,Gyro Ball
+682,Draining Kiss
+682,Thunderbolt
+683,Moonblast
+683,Draining Kiss
+683,Psychic
+683,Thunderbolt
+684,Draining Kiss
+684,Energy Ball
+685,Play Rough
+685,Draining Kiss
+685,Flamethrower
+685,Energy Ball
+686,Psybeam
+686,Night Slash
+687,Psybeam
+687,Hyper Beam
+687,Super Power
+687,Foul Play
+688,Ancient Power
+688,Dig
+688,Cross Chop
+689,Skull Bash
+689,Razor Shell
+689,Grass Knot
+689,Stone Edge
+689,Cross Chop
+690,Aqua Tail
+690,Sludge Bomb
+690,Twister
+690,Water Pulse
+691,Hydro Pump
+691,Gunk Shot
+691,Outrage
+691,Aqua Tail
+692,Water Pulse
+692,Aqua Jet
+692,Crabhammer
+693,Water Pulse
+693,Crabhammer
+693,Ice Beam
+693,Dark Pulse
+694,Parabolic Charge
+694,Thunderbolt
+694,Bulldoze
+695,Parabolic Charge
+695,Breaking Swipe
+695,Grass Knot
+695,Thunderbolt
+695,Bulldoze
+696,Stomp
+696,Dragon Claw
+696,Ancient Power
+697,Crunch
+697,Meteor Beam
+697,Earthquake
+697,Outrage
+697,Stone Edge
+698,Weather Ball Ice
+698,Thunderbolt
+698,Aurora Beam
+698,Ancient Power
+699,Weather Ball Ice
+699,Meteor Beam
+699,Hyper Beam
+699,Thunderbolt
+699,Blizzard
+699,Ancient Power
+700,Moonblast
+700,Draining Kiss
+700,Dazzling Gleam
+701,Flying Press
+701,Power Up Punch
+701,X Scissor
+701,Aerial Ace
+702,Discharge
+702,Parabolic Charge
+702,Play Rough
+703,Rock Slide
+703,Power Gem
+703,Moonblast
+704,Dragon Pulse
+704,Muddy Water
+704,Sludge Wave
+705,Dragon Pulse
+705,Water Pulse
+705,Muddy Water
+705,Sludge Wave
+706,Draco Meteor
+706,Aqua Tail
+706,Power Whip
+706,Muddy Water
+706,Sludge Wave
+707,Flash Cannon
+707,Foul Play
+707,Draining Kiss
+707,Play Rough
+708,Seed Bomb
+708,Foul Play
+708,Shadow Ball
+709,Seed Bomb
+709,Foul Play
+709,Shadow Ball
+710,Grass Knot
+710,Foul Play
+710,Shadow Sneak
+711,Seed Bomb
+711,Poltergeist
+711,Fire Blast
+711,Foul Play
+711,Shadow Ball
+712,Crunch
+712,Mirror Coat
+712,Icy Wind
+713,Crunch
+713,Icy Wind
+713,Blizzard
+713,Rock Slide
+714,Dragon Pulse
+714,Heat Wave
+714,Air Cutter
+715,Draco Meteor
+715,Psychic
+715,Heat Wave
+715,Hurricane
+716,Moonblast
+716,Thunder
+716,Giga Impact
+716,Close Combat
+716,Megahorn
+717,Dark Pulse
+717,Psychic
+717,Hyper Beam
+717,Focus Blast
+717,Hurricane
+718,Outrage
+718,Bulldoze
+718,Hyper Beam
+718,Crunch
+718,Earthquake
+719,Rock Slide
+719,Power Gem
+719,Moonblast
+720,Shadow Ball
+720,Psychic
+720,Psybeam
+721,Hydro Pump
+721,Sludge Bomb
+721,Earth Power
+721,Overheat
+722,Seed Bomb
+722,Energy Ball
+723,Seed Bomb
+723,Brave Bird
+723,Energy Ball
+724,Trailblaze
+724,Aerial Ace
+724,Aura Sphere
+724,Energy Ball
+725,Flamethrower
+725,Crunch
+725,Flame Charge
+726,Flamethrower
+726,Crunch
+726,Flame Charge
+727,Fire Blast
+727,Darkest Lariat
+727,Blaze Kick
+727,Dark Pulse
+727,Flame Charge
+728,Aqua Jet
+728,Aqua Tail
+728,Water Pulse
+729,Aqua Jet
+729,Disarming Voice
+729,Water Pulse
+730,Psychic
+730,Disarming Voice
+730,Moonblast
+730,Hydro Pump
+731,Drill Peck
+731,Sky Attack
+731,Aerial Ace
+732,Drill Peck
+732,Sky Attack
+732,Rock Blast
+733,Drill Peck
+733,Flash Cannon
+733,Rock Blast
+734,Hyper Fang
+734,Rock Tomb
+734,Crunch
+735,Hyper Fang
+735,Rock Tomb
+735,Crunch
+736,X Scissor
+736,Crunch
+736,Vice Grip
+737,X Scissor
+737,Crunch
+737,Discharge
+738,X Scissor
+738,Fly
+738,Crunch
+738,Discharge
+739,Power Up Punch
+739,Brick Break
+739,Payback
+739,Crabhammer
+740,Power Up Punch
+740,Brick Break
+740,Ice Punch
+740,Payback
+740,Crabhammer
+741,Aerial Ace
+741,Hurricane
+741,Air Cutter
+742,Dazzling Gleam
+742,Bug Buzz
+743,Dazzling Gleam
+743,Bug Buzz
+744,Stone Edge
+744,Trailblaze
+744,Crunch
+744,Rock Tomb
+745,Stone Edge
+745,Trailblaze
+745,Crunch
+745,Iron Head
+746,Brine
+746,Aqua Tail
+746,Surf
+747,Brine
+747,Sludge Wave
+747,Gunk Shot
+748,Brine
+748,Sludge Wave
+748,Gunk Shot
+749,Bulldoze
+749,Earthquake
+749,Body Slam
+750,Bulldoze
+750,Heavy Slam
+750,Earthquake
+750,Body Slam
+751,Water Pulse
+751,Mirror Coat
+751,Bubble Beam
+752,Bug Buzz
+752,Water Pulse
+752,Mirror Coat
+752,Bubble Beam
+753,Leaf Blade
+753,Trailblaze
+753,Grass Knot
+753,Energy Ball
+754,Leaf Blade
+754,Trailblaze
+754,X Scissor
+754,Super Power
+754,Leaf Storm
+755,Dazzling Gleam
+755,Seed Bomb
+756,Moonblast
+756,Sludge Bomb
+756,Seed Bomb
+757,Poison Fang
+757,Dragon Pulse
+757,Flamethrower
+758,Poison Fang
+758,Sludge Wave
+758,Dragon Pulse
+758,Fire Blast
+759,Super Power
+759,Stomp
+759,Brick Break
+760,Super Power
+760,Stomp
+760,Payback
+761,Energy Ball
+761,Draining Kiss
+762,Energy Ball
+762,Triple Axel
+762,Grass Knot
+762,Draining Kiss
+763,Energy Ball
+763,Triple Axel
+763,Stomp
+763,Grass Knot
+763,Draining Kiss
+764,Petal Blizzard
+764,Draining Kiss
+764,Grass Knot
+765,Psychic
+765,Trailblaze
+765,Futuresight
+765,Foul Play
+766,Brick Break
+766,Super Power
+766,Close Combat
+767,Bug Buzz
+768,X Scissor
+768,Razor Shell
+768,Liquidation
+768,Aerial Ace
+768,Aqua Jet
+769,Sand Tomb
+769,Scorching Sands
+769,Earth Power
+769,Shadow Ball
+770,Sand Tomb
+770,Scorching Sands
+770,Earth Power
+770,Shadow Ball
+771,Mirror Coat
+772,Tri Attack
+772,Aerial Ace
+772,Iron Head
+773,Tri Attack
+773,X Scissor
+773,Aerial Ace
+773,Iron Head
+774,Power Gem
+774,Acrobatics
+774,Ancient Power
+775,Play Rough
+775,Payback
+775,Bulldoze
+776,Overheat
+776,Flash Cannon
+776,Dragon Pulse
+776,Flamethrower
+777,Fell Stinger
+777,Gyro Ball
+777,Wild Charge
+778,Shadow Sneak
+778,Shadow Ball
+778,Play Rough
+779,Psychic Fangs
+779,Crunch
+779,Aqua Tail
+780,Outrage
+780,Fly
+780,Dragon Pulse
+781,Power Whip
+781,Heavy Slam
+781,Shadow Ball
+782,Dragon Claw
+782,Dragon Pulse
+782,Brick Break
+783,Dragon Claw
+783,Dragon Pulse
+783,Brick Break
+784,Dragon Claw
+784,Brick Break
+784,Boomburst
+784,Flamethrower
+784,Close Combat
+785,Thunderbolt
+785,Thunder
+785,Brave Bird
+785,Dazzling Gleam
+786,Psyshock
+786,Futuresight
+786,Focus Blast
+786,Moonblast
+787,Grass Knot
+787,Solar Beam
+787,Megahorn
+787,Dazzling Gleam
+788,Surf
+788,Hydro Pump
+788,Ice Beam
+788,Moonblast
+789,Struggle
+790,Struggle
+791,Iron Head
+791,Flamethrower
+791,Solar Beam
+791,Psychic Fangs
+792,Shadow Ball
+792,Futuresight
+792,Moonblast
+792,Psychic
+793,Power Gem
+793,Rock Slide
+793,Sludge Bomb
+793,Gunk Shot
+794,Power Up Punch
+794,Super Power
+794,Lunge
+794,Fell Stinger
+795,Focus Blast
+795,Close Combat
+795,Lunge
+795,Bug Buzz
+796,Discharge
+796,Dazzling Gleam
+796,Power Whip
+796,Thunder
+797,Iron Head
+797,Bulldoze
+797,Heavy Slam
+797,Body Slam
+798,Leaf Blade
+798,Aerial Ace
+798,Night Slash
+798,X Scissor
+799,Brutal Swing
+799,Sludge Bomb
+799,Crunch
+799,Dragon Claw
+800,Dark Pulse
+800,Outrage
+800,Iron Head
+800,Futuresight
+801,Struggle
+802,Close Combat
+802,Rock Slide
+802,Ice Punch
+802,Thunder Punch
+802,Fire Punch
+803,Sludge Bomb
+803,Fell Stinger
+803,Sludge Wave
+804,Sludge Bomb
+804,Dragon Claw
+804,Dragon Pulse
+804,Fell Stinger
+804,Acrobatics
+805,Flash Cannon
+805,Bulldoze
+805,Stone Edge
+806,Mystical Fire
+806,Overheat
+806,Shadow Ball
+807,Thunder Punch
+807,Wild Charge
+807,Discharge
+808,Flash Cannon
+808,Thunderbolt
+809,Flash Cannon
+809,Super Power
+809,Rock Slide
+809,Hyper Beam
+809,Thunderbolt
+810,Energy Ball
+810,Grass Knot
+811,Energy Ball
+811,Grass Knot
+812,Energy Ball
+812,Earth Power
+812,Grass Knot
+813,Flame Charge
+813,Flamethrower
+814,Flame Charge
+814,Flamethrower
+815,Flame Charge
+815,Focus Blast
+815,Flamethrower
+816,Water Pulse
+816,Surf
+817,Water Pulse
+817,Surf
+818,Water Pulse
+818,Shadow Ball
+818,Surf
+819,Body Slam
+819,Trailblaze
+819,Crunch
+820,Body Slam
+820,Trailblaze
+820,Crunch
+821,Drill Peck
+821,Brave Bird
+822,Drill Peck
+822,Brave Bird
+823,Drill Peck
+823,Iron Head
+823,Brave Bird
+824,Struggle
+825,Bug Buzz
+825,Psychic
+826,Bug Buzz
+826,Psychic
+827,Night Slash
+827,Play Rough
+828,Night Slash
+828,Play Rough
+829,Energy Ball
+829,Grass Knot
+830,Energy Ball
+830,Grass Knot
+831,Wild Charge
+831,Stomp
+831,Payback
+832,Wild Charge
+832,Body Slam
+832,Payback
+833,Body Slam
+833,Surf
+834,Body Slam
+834,Rock Blast
+834,Surf
+835,Crunch
+835,Thunder
+836,Crunch
+836,Thunder
+837,Rock Blast
+837,Rock Slide
+838,Rock Blast
+838,Flame Charge
+838,Rock Slide
+839,Rock Blast
+839,Flame Charge
+839,Rock Slide
+840,Struggle
+841,Dragon Pulse
+841,Seed Bomb
+841,Outrage
+841,Fly
+842,Dragon Pulse
+842,Seed Bomb
+842,Outrage
+842,Energy Ball
+843,Dig
+843,Earth Power
+843,Bulldoze
+844,Dig
+844,Earth Power
+844,Bulldoze
+845,Drill Peck
+845,Hydro Pump
+845,Fly
+846,Crunch
+846,Close Combat
+846,Aqua Jet
+847,Crunch
+847,Close Combat
+847,Aqua Jet
+848,Power Up Punch
+849,Acid Spray
+849,Power Up Punch
+849,Wild Charge
+849,Discharge
+850,Heat Wave
+850,Crunch
+850,Bug Buzz
+851,Heat Wave
+851,Lunge
+851,Crunch
+851,Bug Buzz
+852,Brick Break
+852,Ice Punch
+852,Super Power
+853,Brick Break
+853,Surf
+853,Ice Punch
+853,Super Power
+854,Shadow Ball
+854,Psychic
+854,Dark Pulse
+855,Shadow Ball
+855,Psychic
+855,Dark Pulse
+856,Psybeam
+856,Dazzling Gleam
+856,Psychic
+857,Psybeam
+857,Dazzling Gleam
+857,Psychic
+858,Psybeam
+858,Power Whip
+858,Dazzling Gleam
+858,Psychic
+859,Foul Play
+859,Play Rough
+859,Dark Pulse
+860,Foul Play
+860,Play Rough
+860,Dark Pulse
+861,Foul Play
+861,Power Up Punch
+861,Play Rough
+861,Dark Pulse
+862,Cross Chop
+862,Gunk Shot
+862,Hyper Beam
+862,Night Slash
+863,Iron Head
+863,Trailblaze
+863,Foul Play
+863,Play Rough
+863,Close Combat
+864,Rock Blast
+864,Shadow Ball
+864,Night Shade
+864,Brine
+865,Close Combat
+865,Night Slash
+865,Leaf Blade
+865,Brave Bird
+866,Psybeam
+866,Triple Axel
+866,Icy Wind
+866,Ice Punch
+866,Psychic
+867,Shadow Ball
+867,Rock Tomb
+867,Sand Tomb
+868,Dazzling Gleam
+869,Dazzling Gleam
+869,Energy Ball
+869,Psyshock
+870,Super Power
+870,Megahorn
+870,Brick Break
+871,Discharge
+871,Bubble Beam
+871,Thunderbolt
+872,Icy Wind
+872,Bug Buzz
+873,Icy Wind
+873,Hurricane
+873,Ice Beam
+873,Bug Buzz
+874,Stone Edge
+874,Stomp
+874,Rock Slide
+875,Icy Wind
+875,Surf
+875,Weather Ball Ice
+876,Psybeam
+876,Energy Ball
+876,Psychic
+877,Crunch
+877,Wild Charge
+877,Thunderbolt
+877,Payback
+878,Iron Head
+878,Play Rough
+878,Dig
+879,Iron Head
+879,Heavy Slam
+879,Play Rough
+879,Dig
+880,Discharge
+880,Ancient Power
+880,Dragon Pulse
+881,Discharge
+881,Ancient Power
+881,Avalanche
+882,Brine
+882,Ancient Power
+882,Dragon Pulse
+883,Brine
+883,Ancient Power
+883,Avalanche
+884,Flash Cannon
+884,Hyper Beam
+884,Dragon Claw
+885,Struggle
+886,Dragon Pulse
+886,Outrage
+886,Shadow Ball
+887,Dragon Pulse
+887,Outrage
+887,Shadow Ball
+888,Play Rough
+888,Close Combat
+888,Wild Charge
+888,Iron Head
+889,Moonblast
+889,Close Combat
+889,Crunch
+889,Iron Head
+890,Cross Poison
+890,Hyper Beam
+890,Flamethrower
+890,Dragon Pulse
+891,Brick Break
+891,Close Combat
+891,Dynamic Punch
+892,Brick Break
+892,Aqua Jet
+892,Close Combat
+892,Dynamic Punch
+893,Power Whip
+893,Dark Pulse
+893,Energy Ball
+894,Hyper Beam
+894,Zap Cannon
+894,Thunder
+895,Hyper Beam
+895,Breaking Swipe
+895,Dragon Pulse
+895,Outrage
+896,Avalanche
+896,Bulldoze
+896,Icy Wind
+897,Shadow Ball
+897,Bulldoze
+897,Foul Play
+898,Psyshock
+898,Avalanche
+898,Energy Ball
+898,Psychic
+899,Stomp
+899,Psychic
+899,Megahorn
+899,Wild Charge
+900,X Scissor
+900,Trailblaze
+900,Stone Edge
+900,Rock Slide
+901,Fire Punch
+901,Swift
+901,Trailblaze
+901,Ice Punch
+901,Aerial Ace
+901,Thunder Punch
+902,
+903,Aerial Ace
+903,X Scissor
+903,Close Combat
+904,Aqua Tail
+904,Shadow Ball
+904,Dark Pulse
+904,Sludge Bomb
+904,Ice Beam
+905,Dazzling Gleam
+905,Grass Knot
+905,Fly
+906,Grass Knot
+906,Energy Ball
+906,Play Rough
+907,Grass Knot
+907,Energy Ball
+907,Play Rough
+908,Grass Knot
+908,Night Slash
+908,Energy Ball
+908,Play Rough
+909,Flamethrower
+909,Crunch
+909,Disarming Voice
+910,Flamethrower
+910,Crunch
+910,Disarming Voice
+911,Flamethrower
+911,Shadow Ball
+911,Crunch
+911,Disarming Voice
+912,Aqua Jet
+912,Liquidation
+912,Aerial Ace
+913,Aqua Jet
+913,Liquidation
+913,Aerial Ace
+914,Aqua Jet
+914,Close Combat
+914,Liquidation
+914,Aerial Ace
+915,Dig
+915,Body Slam
+915,Trailblaze
+916,Dig
+916,Body Slam
+916,Trailblaze
+917,X Scissor
+917,Lunge
+917,Grass Knot
+918,X Scissor
+918,Rock Tomb
+918,Lunge
+918,Grass Knot
+919,X Scissor
+919,Bug Buzz
+919,Trailblaze
+920,X Scissor
+920,Dark Pulse
+920,Bug Buzz
+920,Trailblaze
+921,Thunderbolt
+921,Wild Charge
+921,Discharge
+922,Thunderbolt
+922,Thunder Punch
+922,Wild Charge
+922,Discharge
+923,Thunderbolt
+923,Thunder Punch
+923,Close Combat
+923,Wild Charge
+923,Discharge
+924,Swift
+924,Crunch
+924,Play Rough
+925,Swift
+925,Crunch
+925,Play Rough
+926,Body Slam
+926,Psychic Fangs
+926,Play Rough
+927,Body Slam
+927,Psychic Fangs
+927,Play Rough
+928,Seed Bomb
+928,Trailblaze
+928,Earth Power
+928,Energy Ball
+929,Seed Bomb
+929,Trailblaze
+929,Earth Power
+929,Energy Ball
+930,Seed Bomb
+930,Trailblaze
+930,Earth Power
+930,Energy Ball
+931,Aerial Ace
+931,Fly
+931,Brave Bird
+932,Rock Blast
+932,Ancient Power
+932,Rock Tomb
+933,Rock Blast
+933,Ancient Power
+933,Rock Tomb
+934,Rock Slide
+934,Ancient Power
+934,Rock Tomb
+935,Flame Charge
+935,Flamethrower
+935,Heat Wave
+936,Flame Charge
+936,Psyshock
+936,Flamethrower
+936,Heat Wave
+937,Flame Charge
+937,Shadow Ball
+937,Flamethrower
+937,Heat Wave
+938,Parabolic Charge
+938,Zap Cannon
+938,Discharge
+939,Parabolic Charge
+939,Zap Cannon
+939,Discharge
+940,Acrobatics
+940,Thunderbolt
+940,Aerial Ace
+941,Acrobatics
+941,Thunderbolt
+941,Aerial Ace
+942,Crunch
+942,Dig
+942,Payback
+943,Crunch
+943,Dig
+943,Payback
+944,Acid Spray
+944,Sludge Bomb
+944,Poison Fang
+945,Acid Spray
+945,Sludge Bomb
+945,Poison Fang
+946,Shadow Sneak
+946,Power Whip
+946,Night Shade
+947,Shadow Sneak
+947,Power Whip
+947,Night Shade
+948,Earth Power
+948,Wrap
+948,Seed Bomb
+949,Earth Power
+949,Acid Spray
+949,Seed Bomb
+950,Rock Slide
+950,Bulldoze
+950,Rock Tomb
+951,Leaf Storm
+951,Seed Bomb
+951,Grass Knot
+952,Leaf Storm
+952,Flamethrower
+952,Overheat
+952,Grass Knot
+953,Dig
+953,Lunge
+953,Bug Buzz
+954,Dig
+954,Psybeam
+954,Lunge
+954,Bug Buzz
+955,Psybeam
+955,Psychic
+955,Psyshock
+956,Psybeam
+956,Psychic
+956,Psyshock
+957,Play Rough
+957,Flash Cannon
+957,Brutal Swing
+958,Play Rough
+958,Flash Cannon
+958,Brutal Swing
+959,Play Rough
+959,Heavy Slam
+959,Flash Cannon
+959,Brutal Swing
+960,Liquidation
+960,Surf
+960,Dig
+961,Liquidation
+961,Surf
+961,Dig
+962,Payback
+962,Fly
+962,Aerial Ace
+963,Aqua Jet
+963,Icy Wind
+963,Water Pulse
+964,Aqua Jet
+964,Acrobatics
+964,Drain Punch
+964,Icy Wind
+964,Water Pulse
+965,Acid Spray
+965,Gyro Ball
+965,Gunk Shot
+966,Acid Spray
+966,Overheat
+966,Gyro Ball
+966,Gunk Shot
+967,Dragon Claw
+967,Trailblaze
+967,Body Slam
+968,Rock Tomb
+968,Iron Head
+968,Earthquake
+969,Dazzling Gleam
+969,Sludge Wave
+969,Rock Slide
+970,Dazzling Gleam
+970,Sludge Wave
+970,Rock Slide
+971,Shadow Ball
+971,Psychic Fangs
+971,Dig
+972,Shadow Ball
+972,Psychic Fangs
+972,Dig
+973,Aerial Ace
+973,Close Combat
+973,Brave Bird
+974,Body Slam
+974,Heavy Slam
+974,Avalanche
+975,Body Slam
+975,Heavy Slam
+975,Avalanche
+976,Water Pulse
+976,Crunch
+976,Drill Run
+976,Psychic Fangs
+977,Outrage
+977,Liquidation
+977,Hydro Pump
+977,Surf
+978,Outrage
+978,Muddy Water
+978,Hydro Pump
+978,Surf
+979,Close Combat
+979,Shadow Ball
+979,Ice Punch
+979,Night Slash
+979,Low Sweep
+980,Sludge Bomb
+980,Water Pulse
+980,Acid Spray
+980,Stone Edge
+980,Earthquake
+981,Psychic
+981,Psychic Fangs
+981,Mirror Coat
+981,Thunderbolt
+982,Dig
+982,Drill Run
+982,Rock Slide
+983,Dark Pulse
+983,Focus Blast
+983,X Scissor
+983,Iron Head
+984,Struggle
+985,Struggle
+986,Struggle
+987,Struggle
+988,Struggle
+989,Struggle
+990,Struggle
+991,Struggle
+992,Struggle
+993,Struggle
+994,Struggle
+995,Struggle
+996,Dragon Claw
+996,Icy Wind
+996,Outrage
+996,Avalanche
+997,Dragon Claw
+997,Icy Wind
+997,Outrage
+997,Avalanche
+998,Dragon Claw
+998,Icy Wind
+998,Blizzard
+998,Outrage
+998,Avalanche
+999,Shadow Ball
+1000,Shadow Ball
+1000,Focus Blast
+1000,Dazzling Gleam
+1001,Dark Pulse
+1001,Leaf Storm
+1001,Grass Knot
+1002,Dark Pulse
+1002,Blizzard
+1002,Avalanche
+1003,Dark Pulse
+1003,Earthquake
+1003,Bulldoze
+1004,Dark Pulse
+1004,Flame Wheel
+1004,Flame Charge
+1005,Struggle
+1006,Struggle
+1007,Giga Impact
+1007,Outrage
+1007,Close Combat
+1007,Dragon Claw
+1008,Hyper Beam
+1008,Outrage
+1008,Thunder
+1008,Dragon Pulse
