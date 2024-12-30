@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokemon GO Battle Assistant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        h2 {
+            font-size: 50px;
+            font-weight: bold;
+            background: linear-gradient(to bottom, red 50%, white 50%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            text-shadow: 2px 1px 0px gray;
+        }
+        
+        .logout-btn {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            font-size: 16px;
+            text-decoration: none;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .logout-btn:hover {
+            background-color: #45a049;
+        }
+
+        .flash-messages {
+            margin-top: 15px;
+            padding: 10px;
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+            border-radius: 5px;
+        }
+
+        table {
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        th:nth-child(1), td:nth-child(1) {
+            width: 5%; /* Pokemon ID */
+        }
+
+        th:nth-child(2), td:nth-child(2) {
+            width: 20%; /* Pokemon Name */
+        }
+
+        th:nth-child(3), td:nth-child(3) {
+            width: 20%; /* Max CP */
+        }
+
+        th:nth-child(4), td:nth-child(4) {
+            width: 55%; /* Skill */
+        }
+
+        .btn {
+            padding: 5px 10px;
+            font-size: 14px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .btn-update {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        .btn-update:hover {
+            background-color: #45a049;
+        }
+
+        .btn-delete {
+            background-color: #f44336;
+            color: white;
+        }
+
+        .btn-delete:hover {
+            background-color: #e53935;
+        }
+
+        .input-group {
+            display: flex;
+            justify-content: space-between;
+            gap: 10px;
+        }
+
+        .input-field {
+            padding: 5px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            width: 50%;
+        }
+
+        .no-results {
+            text-align: center;
+            font-size: 18px;
+            color: #888;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <!-- Upper half -->
+        <h2>Welcome, {{ session['username'] }}!</h2>
+        <p>Discover the best Pokemons to dominate your battles!</p>
+        <form action="/logout" method="get">
+            <button class="logout-btn" type="submit">Log Out</button>
+        </form>
+        <br>
+        <!-- Flash Messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            <div class="flash-messages">
+                {% for category, message in messages %}
+                    {{ message }}
+                {% endfor %}
+            </div>
+        {% endif %}
+        {% endwith %}
+        <br>
+        <br>
+        <form action="/welcome" method="post">
+            <div class="input-group">
+                <div>
+                    <label for="dropdown">Choose a Pokemon:</label>
+                    <select id="dropdown" name="options" class="input-field">
+                        <option value="">Choose a Pokemon</option>
+                        {% for option in options %}
+                            <option value="{{ option[0] }}">{{ option[0] }} | {{ option[1] }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div>
+                    <label for="search-input">Or Enter Pokemon ID:</label>
+                    <input type="number" id="search-input" name="search_input" class="input-field" placeholder="Enter ID">
+                </div>
+                <div>
+                    <input type="checkbox" id="check-own" name="check_own" value="yes">
+                    <label for="check-own">Search from MY POKEMON</label>
+                </div>
+                <button type="submit" class="btn btn-update">Search</button>
+            </div>
+        </form>
+        {% if results %}
+            <table>
+                <thead>
+                    <tr>
+                        <th>Pokemon ID</th>
+                        <th>Pokemon Name</th>
+                        <th>Max CP</th>
+                        <th>Skill</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in results %}
+                        <tr>
+                            <td>{{ row[0] }}</td>
+                            <td>{{ row[1] }}</td>
+                            <td>{{ row[2] }}</td>
+                            <td>{{ row[3] }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% else %}
+            <div class="no-results">
+                <p>No Results Found ._.</p>
+            </div>
+        {% endif %}
+    </div>
+
+    <div class="container">
+        <!-- Bottom half -->
+        <h2>Manage My Pokemon</h2>
+        <form action="/add_pokemon" method="post">
+            <div class="input-group">
+                <select name="pokemon_id" class="input-field">
+                    <option value="">Select Pokemon</option>
+                    {% for option in options %}
+                        <option value="{{ option[0] }}">{{ option[0] }} | {{ option[1] }}</option>
+                    {% endfor %}
+                </select>
+                <input type="number" name="cp_value" class="input-field" placeholder="Enter CP Value">
+                <button type="submit" class="btn btn-update">Add</button>
+            </div>
+        </form>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Pokemon ID</th>
+                    <th>Pokemon Name</th>
+                    <th>CP</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in managed_data %}
+                    <tr>
+                        <td>{{ row[0] }}</td>
+                        <td>{{ row[1] }}</td>
+                        <td>{{ row[2] }}</td>
+                        <td>
+                            <form action="/update_pokemon" method="post" style="display:inline;">
+                                <input type="hidden" name="pokemon_id" value="{{ row[0] }}">
+                                <input type="number" name="new_cp" placeholder="New CP">
+                                <button type="submit" class="btn btn-update">Update</button>
+                            </form>
+                            <form action="/delete_pokemon" method="post" style="display:inline;">
+                                <input type="hidden" name="pokemon_id" value="{{ row[0] }}">
+                                <button type="submit" class="btn btn-delete">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
