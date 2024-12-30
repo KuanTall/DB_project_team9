@@ -36,7 +36,7 @@ We utilized 3 data sets from Kaggle.
    pip install flask mysql-connector-python
    ```
 4. Access MySQL:
-  ```bash
+   ```bash
    mysql -u [your_username] -p
    ```
 5. Create the database:
