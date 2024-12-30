@@ -29,7 +29,7 @@ We utilized 3 data sets from Kaggle.
    ```
 2. Navigate to the project directory:
    ```bash
-   cd DB_project_team9
+   cd DB_project_team9/dataset
    ```
 3. Install dependencies:
    ```bash
