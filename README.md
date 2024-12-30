@@ -8,7 +8,7 @@ When choosing the best Pokémon for a battle, several factors come into play, wi
 Additionally, users can add their own Pokémon to the database and search through their personal Pokémon list for recommendations.
 
 ## Data
-We utilized 3 data sets from Kaggle.
+We utilized 3 datasets from Kaggle.
 - the Pokemon list https://www.kaggle.com/datasets/shreyasur965/pokemon-go?resource=download
 - the relationships between types https://www.kaggle.com/datasets/shreeyananda/pokemon-go-type-effectiveness
 - skills and their type https://www.kaggle.com/datasets/thiagoamancio/full-pokemons-and-moves-datasets
@@ -36,7 +36,7 @@ We utilized 3 data sets from Kaggle.
    pip install flask mysql-connector-python
    ```
 4. Access MySQL:
-  ```bash
+   ```bash
    mysql -u [your_username] -p
    ```
 5. Create the database:
