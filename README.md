@@ -76,4 +76,4 @@ Users can manage their own Pokémon and search for those available for use.
 ## Links
 - Discussion: https://g0v.hackmd.io/@BK5008/H143lzHgJe
 - Repository: https://github.com/BK5008/DB_project_team9.git
-- Video:
+- Video: https://youtu.be/4_ny0VX4xDc 
