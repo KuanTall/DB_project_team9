@@ -27,16 +27,6 @@ create table skilltype(
     primary key (name, type)
 );
 
-create table acquire(
-    pokemon_id int not null,
-    found_egg tinyint(1),
-    found_evolution tinyint(1),
-    found_wild tinyint(1),
-    found_research tinyint(1),
-    found_raid tinyint(1),
-    primary key (pokemon_id)
-);
-
 CREATE TABLE account(
     user_id varchar(20) NOT NULL UNIQUE PRIMARY KEY,
     pass_word VARCHAR(64) NOT NULL
@@ -75,11 +65,4 @@ into table skilltype
 fields terminated by ','
 enclosed by '"'
 lines terminated by '\r\n'
-ignore 1 lines;
-
-load data local infile './acquire.csv'
-into table acquire
-fields terminated by ','
-enclosed by '"'
-lines terminated by '\n'
 ignore 1 lines;
